@@ -7,6 +7,7 @@
         public string Name { get; set; } //R/W
         public string Email { get; set; } //R/W
         public string Password { get; private set; } //Read, Privately Writable
+        public abstract bool isAdmin { get; }
 
         protected User(string name, string email, string password)
         {
@@ -16,6 +17,19 @@
             Password = password;
         }
 
+        public bool Authorise(User user)
+        {
+            if (user.isAdmin)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        
     }
 }
 
