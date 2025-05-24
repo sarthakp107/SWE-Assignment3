@@ -2,9 +2,15 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void SayHello()
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Hello World from Function");
     }
+    static int Main()
+    {
+        SayHello();
+        return 0;
+    }
+
 }
 
