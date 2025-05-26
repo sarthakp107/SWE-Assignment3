@@ -29,7 +29,11 @@
             }
         }
 
-        
+        public bool Authenticate(string password)
+        {
+            return Password == password;
+        }
+
     }
 }
 

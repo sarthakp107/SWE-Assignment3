@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{4968B079-3371-4A77-8BB6-1096EAD9D7AE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/Models/Product.cs">
+    <Files>
+      <File FileName="Core/Models/Product.cs" Line="29" Column="10" IsPinned="True" />
+      <File FileName="Program.cs" />
+      <File FileName="Core/Models/User.cs" />
+      <File FileName="Core/Models/Customer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AWE_Electronics">
+            <Node name="AWE_Electronics">
+              <Node name="Core">
+                <Node name="Models">
+                  <Node name="Product.cs" selected="True" />
+                </Node>
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AWE__Electronics PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

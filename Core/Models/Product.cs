@@ -22,5 +22,15 @@
             return $"{Name} - {Description} - ${Price}";
         }
 
+        //To mitigate the need of inventory, methods to handle stock:
+        public void AddStock(int quantity)
+        {
+            this.Stock += quantity;
+        }
+        public void ReduceStock(int quantity)
+        {
+            this.Stock -= quantity;
+        }
+
     }
 }
