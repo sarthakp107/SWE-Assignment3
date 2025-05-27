@@ -1,0 +1,15 @@
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/bin/Debug/net7.0/AWE_Electronics
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/bin/Debug/net7.0/AWE_Electronics.deps.json
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/bin/Debug/net7.0/AWE_Electronics.runtimeconfig.json
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/bin/Debug/net7.0/AWE_Electronics.dll
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/bin/Debug/net7.0/AWE_Electronics.pdb
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/Debug/net7.0/AWE_Electronics.csproj.AssemblyReference.cache
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/Debug/net7.0/AWE_Electronics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/Debug/net7.0/AWE_Electronics.AssemblyInfoInputs.cache
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/Debug/net7.0/AWE_Electronics.AssemblyInfo.cs
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/Debug/net7.0/AWE_Electronics.csproj.CoreCompileInputs.cache
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/Debug/net7.0/AWE_Electronics.dll
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/Debug/net7.0/refint/AWE_Electronics.dll
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/Debug/net7.0/AWE_Electronics.pdb
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/Debug/net7.0/AWE_Electronics.genruntimeconfig.cache
+/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/Debug/net7.0/ref/AWE_Electronics.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chiragluitel/Documents/Projects/AWE_Electronics/AWE_Electronics.csproj",
+      "projectUniqueName": "/Users/chiragluitel/Documents/Projects/SWE-Assignment3/AWE_Electronics.csproj",
       "projectName": "AWE_Electronics",
-      "projectPath": "/Users/chiragluitel/Documents/Projects/AWE_Electronics/AWE_Electronics.csproj",
+      "projectPath": "/Users/chiragluitel/Documents/Projects/SWE-Assignment3/AWE_Electronics.csproj",
       "packagesPath": "/Users/chiragluitel/.nuget/packages/",
-      "outputPath": "/Users/chiragluitel/Documents/Projects/AWE_Electronics/obj/",
+      "outputPath": "/Users/chiragluitel/Documents/Projects/SWE-Assignment3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/chiragluitel/.nuget/NuGet/NuGet.Config"
